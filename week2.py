@@ -7,6 +7,8 @@ holiday = input("what is your favorite holiday")
 print("your favorite holiday is" + holiday)
 #print out the day and their favorite holiday in a 
 #sentence
-print("the day is" + day "your favorite holiday is" + holiday")
+print("the day is" + day + "your favorite holiday is" + holiday)
 #making a change to the file
-
+#string slicing
+word = "hello"
+print(word[1:4])
